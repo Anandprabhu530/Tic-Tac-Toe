@@ -1,8 +1,7 @@
-# React + Vite
+# Tic-Tac-Toe Game in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Tic Tac Toe game built with React with Undo Functionality.
 
-Currently, two official plugins are available:
+Throughout the project I learnt a lot about React hooks and Event Handlers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This Project gave me a strong understanding of fundamentals of React.
